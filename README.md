@@ -1,5 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C# through Microsoft Learn, and React through react.dev.
+- you can find my full CV here.
+- 📄 &nbsp;You may also view my [here](https://github.com/jwllew/jwllew/blob/main/cv_jwllewelyn.pdf) for more details.
+
 
 <!--
 **jwllew/jwllew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
