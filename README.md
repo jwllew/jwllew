@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C# through Microsoft Learn, and React through react.dev.
-- you can find my full CV [here](https://downgit.github.io/#/home?url=https://github.com/jwllew/jwllew/blob/main/cv_jwllewelyn.pdf) for more details.
+- you can find my full CV [here](https://) for more details.
 
 
 <!--
