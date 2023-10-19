@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 🌱 I’m currently learning C# through Microsoft Learn, and React through react.dev.
 
 <!--
 **jwllew/jwllew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
