@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning C# through Microsoft Learn, and React through react.dev.
+- Below are some projects I have completed to date. 
 - you can find my full CV [here](https://github.com/jwllew/jwllew/raw/main/jllewelyn_cv_2023.pdf) for more details.
 
 
